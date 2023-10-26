@@ -16,7 +16,7 @@
 ## 🔔 News
 <!-- - 🔥 [2023/10/20] Our survey paper [Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2309.13788) is online. More papers are coming soon! -->
 
-- 🔥 [2023/10/18] We release the dataset and code for our paper [Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788) [[arXiv]](https://arxiv.org/abs/2309.13788) [[dataset and code]](https://github.com/llm-misinformation/llm-misinformation/)
+- 🔥 [2023/10/18] We release the dataset and code for our paper [Can LLM-Generated Misinformation Be Detected?](https://llm-misinformation.github.io/static/pdf/Combating%20Misinformation%20in%20the%20Age%20of%20LLMs:%20Opportunities%20and%20Challenges.pdf) [[arXiv]](https://arxiv.org/abs/2309.13788) [[dataset and code]](https://github.com/llm-misinformation/llm-misinformation/)
 
 
 
