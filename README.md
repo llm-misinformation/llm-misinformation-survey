@@ -51,7 +51,7 @@ Misinformation such as fake news and rumors is a serious threat to information e
 
 ## 1. Related Surveys
 
-- [2023/10] **Combating Misinformation in the Age of LLMs: Opportunities and Challenges** *Canyu Chen, Kai Shu. arXiv.* [[paper](https://arxiv.org/abs/2309.13788)]
+- [2023/10] **Combating Misinformation in the Age of LLMs: Opportunities and Challenges** *Canyu Chen, Kai Shu. preprint.* [[paper](https://llm-misinformation.github.io/static/pdf/Combating%20Misinformation%20in%20the%20Age%20of%20LLMs:%20Opportunities%20and%20Challenges.pdf)]
 - [2023/10] **Factuality Challenges in the Era of Large Language Models** *Isabelle Augenstein et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05189)]
 - [2023/10] **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity** *Cunxiang Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.07521)]
 
