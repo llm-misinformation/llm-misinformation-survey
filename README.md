@@ -36,7 +36,7 @@ Misinformation such as fake news and rumors is a serious threat to information e
     - [2.1 LLMs for Misinformation Detection](#21-llms-for-misinformation-detection)
       - [2.1.1 Directly Prompting](#211-directly-prompting)
       - [2.1.2 Retrieval or Tool Augmentation](#212-retrieval-or-tool-augmentation)
-      - [2.1.2 Others](#212-others)
+      - [2.1.3 Others](#213-others)
     - [2.2 LLMs for Misinformation Intervention](#22-llms-for-misinformation-intervention)
     - [2.3 LLMs for Misinformation Attribution](#23-llms-for-misinformation-attribution)
   - [3. Combating LLM-Generated Misinformation](#3-combating-llm-generated-misinformation)
@@ -62,6 +62,8 @@ Misinformation such as fake news and rumors is a serious threat to information e
 ### 2.1 LLMs for Misinformation Detection
 
 #### 2.1.1 Directly Prompting
+
+- [2023/10] **Language Models Hallucinate, but May Excel at Fact Verification** *Jian Guan et al. arXiv.* [[paper](https://arxiv.org/abs/2310.14564)]
 
 - [2023/10] **The Perils & Promises of Fact-checking with Large Language Models** *Dorian Quelle, Alexandre Bovet. arXiv.* [[paper](https://arxiv.org/abs/2310.13549)]
 
@@ -90,7 +92,7 @@ Misinformation such as fake news and rumors is a serious threat to information e
 - [2023/09] **FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking** *Tsun-Hin Cheung and Kin-Man Lam. APSIPA ASC 2023.* [[paper](https://arxiv.org/abs/2309.00240)]
 - [2023/07] **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios** *I-Chun Chern et al. arXiv.* [[paper](https://arxiv.org/abs/2307.13528)]
 
-#### 2.1.2 Others
+#### 2.1.3 Others
 - [2023/09] **Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection** *Beizhe Hu et al. arXiv.* [[paper](https://arxiv.org/abs/2309.12247)]
 - [2023/09] **Detecting Misinformation with LLM-Predicted Credibility Signals and Weak Supervision** *João A. Leite et al. arxiv.* [[paper](https://arxiv.org/abs/2309.07601)]
 - [2023/09] **Improving Multiclass Classification of Fake News Using BERT-Based Models and ChatGPT-Augmented Data** *Elena Shushkevich et al. MDPI Inventions.* [[paper](https://www.mdpi.com/2411-5134/8/5/112)]
@@ -100,6 +102,7 @@ Misinformation such as fake news and rumors is a serious threat to information e
 
 ### 2.2 LLMs for Misinformation Intervention
 
+- [2023/09] **Artificial intelligence is ineffective and potentially harmful for fact checking** *Matthew R. DeVerna et al. arxiv.* [[paper](https://arxiv.org/abs/2308.10800)]
 - [2023/04] **Reinforcement Learning-Based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation** *Bing He et al. WWW 2023.* [[paper](https://dl.acm.org/doi/10.1145/3543507.3583388)]
 - [2023/04] **Working With AI to Persuade: Examining a Large Lan- guage Model’s Ability to Generate Pro-Vaccination Messages** *Elise Karinshak et al. CSCW 2023.* [[paper](https://dl.acm.org/doi/10.1145/3579592)]
 
