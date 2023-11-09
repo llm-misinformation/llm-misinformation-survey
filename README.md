@@ -8,7 +8,7 @@
 >
 > More resources on "**LLMs Meet Misinformation**" are on the website: https://llm-misinformation.github.io/
 >
->Any suggestion, comment or related discussion is welcome. Please let us know by email: cchen151@hawk.iit.edu
+>Any suggestion, comment or related discussion is welcome. Please let us know by email (cchen151@hawk.iit.edu) or wechat (ID: alexccychen)
 
 
 
