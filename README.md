@@ -10,7 +10,15 @@
 >
 >Any suggestion, comment or related discussion is welcome. Please let us know by email (cchen151@hawk.iit.edu) or wechat (ID: alexccychen)
 
-
+If you find our survey or paper list useful, we will greatly appreacite it if you could consider citing our paper:
+```
+@article{chencombating,
+  title   = {Combating Misinformation in the Age of LLMs: Opportunities and Challenges},
+  author  = {Canyu Chen and Kai Shu},
+  year    = {2023},
+  journal = {researchgate preprint}
+}
+```
 
 
 ## 🔔 News
@@ -45,7 +53,7 @@ Misinformation such as fake news and rumors is a serious threat to information e
       - [3.2.1 Alleviating Hallucination of LLMs](#321-alleviating-hallucination-of-llms)
       - [3.2.2 Improving Safety of LLMs](#322-improving-safety-of-llms)
       - [3.2.3 Detecting LLM-Generated Misinformation](#323-detecting-llm-generated-misinformation)
-  - [Citation](#citation)
+  <!-- - [Citation](#citation) -->
 
 
 
@@ -253,17 +261,5 @@ Misinformation such as fake news and rumors is a serious threat to information e
 - [2023/06] **Implementing BERT and fine-tuned RobertA to detect AI generated news by ChatGPT** *Zecong Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2306.07401)]
 - [2023/04] **Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions.** *Jiawei Zhou et al. CHI 2023.* [[paper](https://dl.acm.org/doi/10.1145/3544548.3581318)]
 
-
-## Citation
-
-If you find our survey or paper list useful, we will greatly appreacite it if you could consider citing our paper:
-```
-@article{chen2023llmgenerated,
-  title   = {Can LLM-Generated Misinformation Be Detected?},
-  author  = {Canyu Chen and Kai Shu},
-  year    = {2023},
-  journal = {arXiv preprint arXiv: 2309.13788}
-}
-```
 
 
