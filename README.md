@@ -12,11 +12,11 @@
 
 If you find our survey or paper list useful, we will greatly appreacite it if you could consider citing our paper:
 ```
-@article{chencombating,
+@article{chen2023combating,
   title   = {Combating Misinformation in the Age of LLMs: Opportunities and Challenges},
   author  = {Canyu Chen and Kai Shu},
   year    = {2023},
-  journal = {researchgate preprint}
+  journal = {arXiv preprint arXiv: 2311.05656}
 }
 ```
 
