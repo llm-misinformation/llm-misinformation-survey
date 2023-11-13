@@ -2,7 +2,7 @@
 
 <div align=center><img src="./image/logo.png" width="90%"/></div>
 
->The repository for the survey **[Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://llm-misinformation.github.io/static/pdf/Combating%20Misinformation%20in%20the%20Age%20of%20LLMs:%20Opportunities%20and%20Challenges.pdf)** <br>[Canyu Chen](https://canyuchen.com), [Kai Shu](http://www.cs.iit.edu/~kshu/)<br>
+>The repository for the survey **[Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656)** <br>[Canyu Chen](https://canyuchen.com), [Kai Shu](http://www.cs.iit.edu/~kshu/)<br>
 >
 >We will maintain this list of papers and related resources for the initiative "**[LLMs Meet Misinformation](https://llm-misinformation.github.io/)**", which aims to combat misinformation in the age of LLMs. We greatly appreciate any contributions via issues, PRs, emails or other methods if you have a paper or are aware of relevant research that should be incorporated.
 >
@@ -22,9 +22,9 @@ If you find our survey or paper list useful, we will greatly appreacite it if yo
 
 
 ## 🔔 News
-- 🔥 [2023/10/26] We release the paper list and our survey paper [Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://llm-misinformation.github.io/static/pdf/Combating%20Misinformation%20in%20the%20Age%20of%20LLMs:%20Opportunities%20and%20Challenges.pdf).
+- 🔥 [2023/10/26] We release the paper list and our survey paper [Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656).
 
-- 🔥 [2023/10/18] We release the dataset and code for our paper [Can LLM-Generated Misinformation Be Detected?](https://llm-misinformation.github.io/static/pdf/Combating%20Misinformation%20in%20the%20Age%20of%20LLMs:%20Opportunities%20and%20Challenges.pdf) [[arXiv]](https://arxiv.org/abs/2309.13788) [[dataset and code]](https://github.com/llm-misinformation/llm-misinformation/)
+- 🔥 [2023/10/18] We release the dataset and code for our paper [Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788) [[arXiv]](https://arxiv.org/abs/2309.13788) [[dataset and code]](https://github.com/llm-misinformation/llm-misinformation/)
 
 
 
@@ -59,7 +59,7 @@ Misinformation such as fake news and rumors is a serious threat to information e
 
 ## 1. Related Surveys
 
-- [2023/10] **Combating Misinformation in the Age of LLMs: Opportunities and Challenges** *Canyu Chen, Kai Shu. preprint.* [[paper](https://llm-misinformation.github.io/static/pdf/Combating%20Misinformation%20in%20the%20Age%20of%20LLMs:%20Opportunities%20and%20Challenges.pdf)]
+- [2023/10] **Combating Misinformation in the Age of LLMs: Opportunities and Challenges** *Canyu Chen, Kai Shu. preprint.* [[paper](https://arxiv.org/abs/2311.05656)]
 - [2023/10] **Factuality Challenges in the Era of Large Language Models** *Isabelle Augenstein et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05189)]
 - [2023/10] **Combating Misinformation in the Era of Generative AI Models** *Danni Xu et al. arXiv.* [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612704)]
 - [2023/10] **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity** *Cunxiang Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.07521)]
