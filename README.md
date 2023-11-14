@@ -124,6 +124,7 @@ Misinformation such as fake news and rumors is a serious threat to information e
 
 ### 3.1 Generation and Characterization
 
+- [2023/11] **Adapting Fake News Detection to the Era of Large Language Models.** *Jinyan Su et al. arXiv.* [[paper](https://arxiv.org/abs/2311.04917)]
 - [2023/10] **Fake News in Sheep’s Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks.** *Jiaying Wu, Bryan Hooi. arXiv.* [[paper](https://arxiv.org/abs/2310.10830)]
 - [2023/10] **LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples** *Jia-Yu Yao et al. arXiv.* [[paper](https://arxiv.org/abs/2310.01469)]
 - [2023/10] **Harnessing the Power of ChatGPT in Fake News: An In-Depth Exploration in Generation, Detection and Explanation.** *Yue Huang, Lichao Sun. arXiv.* [[paper](https://arxiv.org/abs/2310.05046)]
@@ -251,6 +252,8 @@ Misinformation such as fake news and rumors is a serious threat to information e
 
 
 #### 3.2.3 Detecting LLM-Generated Misinformation
+
+- [2023/11] **Adapting Fake News Detection to the Era of Large Language Models.** *Jinyan Su et al. arXiv.* [[paper](https://arxiv.org/abs/2311.04917)]
 - [2023/10] **Fake News in Sheep’s Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks.** *Jiaying Wu, Bryan Hooi. arXiv.* [[paper](https://arxiv.org/abs/2310.10830)]
 - [2023/10] **Harnessing the Power of ChatGPT in Fake News: An In-Depth Exploration in Generation, Detection and Explanation.** *Yue Huang, Lichao Sun. arXiv.* [[paper](https://arxiv.org/abs/2310.05046)]
 - [2023/09] **Can LLM-Generated Misinformation Be Detected?** *Canyu Chen, Kai Shu. arXiv.* [[paper](https://arxiv.org/abs/2309.13788)]
