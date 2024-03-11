@@ -2,7 +2,7 @@
 
 <div align=center><img src="./image/logo.png" width="90%"/></div>
 
->The repository for the survey **[Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656)** <br>[Canyu Chen](https://canyuchen.com), [Kai Shu](http://www.cs.iit.edu/~kshu/)<br>
+>The repository for the survey **[Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656)** <br> **Authors** : [Canyu Chen](https://canyuchen.com), [Kai Shu](http://www.cs.iit.edu/~kshu/) <br> **Paper** : [[arXiv]](https://arxiv.org/abs/2311.05656)  <br> **Project Website** : [llm-misinformation.github.io](https://llm-misinformation.github.io/) <br> **TLDR** : A survey of the opportunities (can we utilize LLMs to combat misinformation) and challenges (how to combat LLM-generated misinformation) of combating misinformation in the age of LLMs.  <br>
 >
 >We will maintain this list of papers and related resources for the initiative "**[LLMs Meet Misinformation](https://llm-misinformation.github.io/)**", which aims to combat misinformation in the age of LLMs. We greatly appreciate any contributions via issues, PRs, emails or other methods if you have a paper or are aware of relevant research that should be incorporated.
 >
