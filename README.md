@@ -22,6 +22,8 @@ If you find our survey or paper list useful, we will greatly appreacite it if yo
 
 
 ## 🔔 News
+
+- 🔥 [2024/04/09] Our survey paper [Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656) is acceptted to ***AI Magazine***.
 - 🔥 [2023/11/12] Our survey paper [Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656) is on arXiv.
 
 - 🔥 [2023/10/18] We release the dataset and code for our paper [Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788) [[arXiv]](https://arxiv.org/abs/2309.13788) [[dataset and code]](https://github.com/llm-misinformation/llm-misinformation/)
