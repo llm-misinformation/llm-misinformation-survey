@@ -12,17 +12,13 @@
 
 If you find our survey or paper list useful, we will greatly appreacite it if you could consider citing our paper:
 ```
-@article{https://doi.org/10.1002/aaai.12188,
+@article{chen2024combatingmisinformation,
       author = {Chen, Canyu and Shu, Kai},
       title = {Combating misinformation in the age of LLMs: Opportunities and challenges},
       journal = {AI Magazine},
-      volume = {n/a},
-      number = {n/a},
-      pages = {},
       doi = {https://doi.org/10.1002/aaai.12188},
       url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.12188},
-      eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12188},
-      abstract = {Abstract Misinformation such as fake news and rumors is a serious threat for information ecosystems and public trust. The emergence of large language models (LLMs) has great potential to reshape the landscape of combating misinformation. Generally, LLMs can be a double-edged sword in the fight. On the one hand, LLMs bring promising opportunities for combating misinformation due to their profound world knowledge and strong reasoning abilities. Thus, one emerging question is: can we utilize LLMs to combat misinformation? On the other hand, the critical challenge is that LLMs can be easily leveraged to generate deceptive misinformation at scale. Then, another important question is: how to combat LLM-generated misinformation? In this paper, we first systematically review the history of combating misinformation before the advent of LLMs. Then we illustrate the current efforts and present an outlook for these two fundamental questions, respectively. The goal of this survey paper is to facilitate the progress of utilizing LLMs for fighting misinformation and call for interdisciplinary efforts from different stakeholders for combating LLM-generated misinformation.}
+      eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12188}
       }
 
 @inproceedings{chen2024llmgenerated,
