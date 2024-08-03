@@ -28,14 +28,21 @@ If you find our survey or paper list useful, we will greatly appreacite it if yo
       year={2024},
       url={https://openreview.net/forum?id=ccxD4mtkTU}
       }
+
+@article{chen2024canediting,
+        title   = {Can Editing LLMs Inject Harm?},
+        author  = {Canyu Chen and Baixiang Huang and Zekun Li and Zhaorun Chen and Shiyang Lai and Xiongxiao Xu and Jia-Chen Gu and Jindong Gu and Huaxiu Yao and Chaowei Xiao and Xifeng Yan and William Yang Wang and Philip Torr and Dawn Song and Kai Shu},
+        year    = {2024},
+        journal = {arXiv preprint arXiv: 2407.20224}
+      }
 ```
 
 
 ## 🔔 News
 
+- 🔥 [2024/07/31] Our new paper [Can Editing LLMs Inject Harm?](https://arxiv.org/abs/2407.20224) is on arXiv.
 - 🔥 [2024/04/09] Our survey paper [Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656) is accepted to ***AI Magazine***.
 - 🔥 [2023/11/12] Our survey paper [Combating Misinformation in the Age of LLMs: Opportunities and Challenges](https://arxiv.org/abs/2311.05656) is on arXiv.
-
 - 🔥 [2023/10/18] We release the dataset and code for our paper [Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788) [[arXiv]](https://arxiv.org/abs/2309.13788) [[dataset and code]](https://github.com/llm-misinformation/llm-misinformation/)
 
 
