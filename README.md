@@ -17,7 +17,8 @@ If you find our survey or paper list useful, we will greatly appreacite it if yo
       title = {Combating misinformation in the age of LLMs: Opportunities and challenges},
       journal = {AI Magazine},
       year = {2024},
-      doi = {10.1002/aaai.12188}
+      doi = {10.1002/aaai.12188},
+      url = {https://doi.org/10.1002/aaai.12188}
       }
 
 @inproceedings{chen2024llmgenerated,
